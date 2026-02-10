@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-02-10T17:44:43.000Z",
+      "message": "Tarea hecha",
+      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/HEAD"
+    },
+    "stats": {
+      "total": 27350,
+      "additions": 4373,
+      "deletions": 22977,
+      "date": "2026-02-10"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
