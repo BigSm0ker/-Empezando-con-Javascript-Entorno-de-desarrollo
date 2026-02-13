@@ -23,5 +23,21 @@
       <input type="number" id="segundo-numero-mul" />
       <input type="submit" value="Multiplicar" id="multiplicar-button" />
     </form>
+    <h1>Saludo por hora</h1>
+    <form id="saludar-form">
+      <label for="hora">Hora (0-23):</label>
+      <input type="number" id="hora" min="0" max="23" />
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" />
+      <label for="edad">Edad:</label>
+      <input type="number" id="edad" min="0" />
+      <label for="genero">Genero:</label>
+      <select id="genero">
+        <option value="hombre">Hombre</option>
+        <option value="mujer">Mujer</option>
+      </select>
+      <input type="submit" value="Saludar" id="saludar-button" />
+    </form>
+    <div id="saludo-div"></div>
   </body>
 </html>

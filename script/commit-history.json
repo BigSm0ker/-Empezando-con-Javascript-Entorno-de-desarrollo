@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c5adc58c355d64554f08c7cc74bcccef56ac378c",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-02-13T02:43:06.000Z",
       "message": "Feature:Saludar por hora",
-      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/c5adc58c355d64554f08c7cc74bcccef56ac378c"
     },
     "stats": {
       "total": 0,
       "additions": 0,
       "deletions": 0,
+      "date": "2026-02-13"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-02-13T02:55:36.000Z",
+      "message": "Feature:Saludar por genero,nombre,edad,y hora",
+      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/HEAD"
+    },
+    "stats": {
+      "total": 54,
+      "additions": 52,
+      "deletions": 2,
       "date": "2026-02-13"
     },
     "coverage": 100,
