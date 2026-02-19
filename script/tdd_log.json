@@ -18,9 +18,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0764d2262bc052c47ce9663e4066f4ab5e616186",
     "commitName": "Feature:Saludar por genero,nombre,edad,y hora",
     "commitTimestamp": 1770951339261,
     "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1771507845944,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1771508134287,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feature:Test de saludados implementado",
+    "commitTimestamp": 1771508879988,
+    "testId": 4
   }
 ]

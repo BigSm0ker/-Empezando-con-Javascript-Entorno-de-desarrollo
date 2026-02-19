@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0764d2262bc052c47ce9663e4066f4ab5e616186",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-02-13T02:55:36.000Z",
       "message": "Feature:Saludar por genero,nombre,edad,y hora",
-      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/0764d2262bc052c47ce9663e4066f4ab5e616186"
     },
     "stats": {
       "total": 54,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-02-19T13:47:58.000Z",
+      "message": "Feature:Test de saludados implementado",
+      "url": "https://github.com/BigSm0ker/-Empezando-con-Javascript-Entorno-de-desarrollo/commit/HEAD"
+    },
+    "stats": {
+      "total": 153,
+      "additions": 125,
+      "deletions": 28,
+      "date": "2026-02-19"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }
