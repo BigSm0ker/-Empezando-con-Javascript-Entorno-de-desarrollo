@@ -40,9 +40,47 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f196c54fcd8a5b1e48e90419dc21579418f875a4",
     "commitName": "Feature:Test de saludados implementado",
     "commitTimestamp": 1771508879988,
     "testId": 4
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1771510156583,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 1,
+    "numTotalTests": 17,
+    "timestamp": 1771510252217,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 17,
+    "failedTests": 0,
+    "numTotalTests": 17,
+    "timestamp": 1771510269933,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 17,
+    "failedTests": 0,
+    "numTotalTests": 17,
+    "timestamp": 1771938709447,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feature:Division",
+    "commitTimestamp": 1771938868597,
+    "testId": 5
   }
 ]
